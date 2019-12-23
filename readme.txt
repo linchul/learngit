@@ -1,1 +1,1 @@
-Welcome git
+Welcome git. git is a distributed system.
