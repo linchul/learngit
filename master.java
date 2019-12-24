@@ -1,5 +1,5 @@
 
 public class master {
-		aaaa
+		aaaaa
 		bbbbbb
 }	
